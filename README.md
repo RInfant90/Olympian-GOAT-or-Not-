@@ -1,5 +1,5 @@
 
-Olympian GOAT or not?
+Olympian GOAT or Not?
 
 This was an SQL Team project in which we were assigned the research of the Olympian Florence Griffith Joyner.  Based on our findings we had to determine if she was the Olympic GOAT (greateast of all time) of Track and Field.
 - Using the Olympics data, we wrote SQL queries to understand the history of the athlete.
